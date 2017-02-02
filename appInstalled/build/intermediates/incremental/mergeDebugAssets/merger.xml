@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/grzegorz/Katalog bez nazwy 2/appInstalled/assets"/><source path="/home/grzegorz/Katalog bez nazwy 2/appInstalled/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/grzegorz/Katalog bez nazwy 2/appInstalled/build-types/debug/assets"/></dataSet></merger>

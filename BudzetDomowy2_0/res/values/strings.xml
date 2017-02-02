@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BudzetDomowy2_0</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_wydatki">Wydatki</string>
+    <string name="title_activity_przychody_rodziny">PrzychodyRodziny</string>
+    <string name="title_activity_wyniki_finansowe">WynikiFinansowe</string>
+    <string name="title_activity_wydatki_cykliczne">WydatkiCykliczne</string>
+    <string name="title_activity_wydatki_planowane">WydatkiPlanowane</string>
+    <string name="title_activity_wydatki_nie_planowane">WydatkiNiePlanowane</string>
+    <string name="title_activity_historia_miesiaca">HistoriaMiesiaca</string>
+
+</resources>

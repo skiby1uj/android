@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/appInstalled/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/appInstalled/build/intermediates/pre-dexed/debug/android-support-v4_4d5ac6b1060da5aa6e8fd898dfcd67d8a02b90fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/appInstalled/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="0a4cbdc1729032b278210b2d0a0b692376e31319">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/appInstalled/build/intermediates/pre-dexed/debug/instant-run_ccf0115973255faacfc2c70ee449af7e317ace74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/appInstalled/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="9a31bf997dfc4d90b4bf3689c5c341c126bfd336">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/appInstalled/build/intermediates/pre-dexed/debug/instant-run-bootstrap_bef72a94855d920bf747510b4cf09adc329315dd.jar" />
+    </item>
+
+</items>

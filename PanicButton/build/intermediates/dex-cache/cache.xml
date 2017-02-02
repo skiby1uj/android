@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2084c19f63b4cc55931ed268bb2d71a115677a7f">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_912bde0c4a90f90ab56845173a06606a1dbe293a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="875a92d74f6516922ebed1377a0db9750591b0b2">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/build/intermediates/pre-dexed/debug/instant-run_b759438f56a56399380a337e92395525ac25c61f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_68f559ed1d00daa5938802c56f9e9c34c2e724b8.jar" />
+    </item>
+
+</items>

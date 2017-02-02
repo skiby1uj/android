@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+	android:layout_gravity="center|top|clip_vertical">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/krowa"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:onClick="textView1"
+        android:clickable="true"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/kot"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:onClick="textView2" 
+        android:clickable="true"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lis"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:onClick="textView3"
+        android:clickable="true"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/swinia"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:onClick="textView4"
+        android:clickable="true" 
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/kura"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:onClick="textView5"
+        android:clickable="true" 
+        android:layout_weight="1"/>
+    
+</LinearLayout>

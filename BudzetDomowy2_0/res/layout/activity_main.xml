@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.budzetdomowy2_0.MainActivity" >
+
+    <Button
+        android:id="@+id/WydatkiButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/PrzychodyRodzinyButton"
+        android:layout_below="@+id/PrzychodyRodzinyButton"
+        android:layout_marginTop="24dp"
+        android:onClick="WydatkiButton"
+        android:text="Wydatki\nsuma: " />
+
+    <Button
+        android:id="@+id/RozliczMiesiacButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/WynikiFinansoweButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:text="Rozlicz Miesiac"
+        android:onClick="RozliczMiesiacButton" />
+
+    <Button
+        android:id="@+id/PrzychodyRodzinyButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/RozliczMiesiacButton"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp"
+        android:onClick="PrzychodyRodzinyButton"
+        android:text="Przychody rodziny\nsuma: " />
+
+    <Button
+        android:id="@+id/WynikiFinansoweButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/WydatkiButton"
+        android:layout_below="@+id/WydatkiButton"
+        android:layout_marginTop="14dp"
+        android:onClick="WynikiFinansoweButton"
+        android:text="Wyniki finansowe" />
+
+</RelativeLayout>

@@ -1,0 +1,111 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.budzetdomowy2_0.PrzychodyRodziny" >
+
+    <EditText
+        android:id="@+id/Nazwisko"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Imie"
+        android:layout_alignTop="@+id/Imie"
+        android:layout_marginTop="44dp"
+        android:ems="10"
+        android:hint="Nazwisko"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/Zarobki"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Nazwisko"
+        android:layout_below="@+id/Nazwisko"
+        android:ems="10"
+        android:inputType="number"
+        android:hint="Zarobki" />
+
+    <EditText
+        android:id="@+id/Imie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="107dp"
+        android:ems="10"
+        android:hint="Imie"
+        android:inputType="textPersonName" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/DodajButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/Imie"
+        android:text="Dodaj"
+        android:onClick="DodajButton" />
+
+    <ListView
+        android:id="@+id/listViewPrzychodyRodziny"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/Nazwisko"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true" >
+
+    </ListView>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Domownicy"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/buttonUsun"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/DodajButton"
+        android:layout_alignRight="@+id/DodajButton"
+        android:layout_below="@+id/DodajButton"
+        android:text="Usuń"
+        android:onClick="buttonUsun" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/listViewPrzychodyRodziny"
+        android:layout_below="@+id/textView1"
+        android:text="ID"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/listViewPrzychodyRodziny"
+        android:layout_alignParentRight="true"
+        android:text="Zarobki"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/listViewPrzychodyRodziny"
+        android:layout_alignLeft="@+id/textView1"
+        android:text="Dane"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

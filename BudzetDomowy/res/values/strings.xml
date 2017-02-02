@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BudzetDomowy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_domownicy">Domownicy</string>
+    <string name="title_activity_wydatki">Wydatki</string>
+    <string name="title_activity_domowe_wydatki">DomoweWydatki</string>
+
+</resources>

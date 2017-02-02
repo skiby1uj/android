@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="ba87ae051b9fe381f8f89e77e69046bc0e644146">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/build/intermediates/pre-dexed/debug/instant-run-bootstrap_a4dffea6fc641df52cedca53b466f7c1bf4f260d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="a13f8fe2c278737e2f0b6fcf00f6b2ae4034aacf">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/build/intermediates/pre-dexed/debug/android-support-v4_3dd9866091c2087a3442afe4502c327cb4795fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="93fb8ca355c19ad58640f3d283386c769f6940bb">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/build/intermediates/pre-dexed/debug/instant-run_639187a23fc891760b2e2610f13cefc8dd6e6329.jar" />
+    </item>
+
+</items>

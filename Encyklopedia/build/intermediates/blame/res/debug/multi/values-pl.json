@@ -1,0 +1,315 @@
+[
+    {
+        "outputFile": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 52,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 49,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 49,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 35,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 437,
+                        "endColumn": 35,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endColumn": 211,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 211,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 39,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 39,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 230,
+                    "endOffset": 786
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 230,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 791,
+                    "endColumn": 37,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1228,
+                        "endColumn": 37,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endColumn": 853,
+                    "endOffset": 1678
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1266,
+                        "endColumn": 853,
+                        "endOffset": 2115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1683,
+                    "endColumn": 35,
+                    "endOffset": 1714
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 35,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1719,
+                    "endColumn": 299,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 299,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 41,
+                    "endOffset": 2056
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1021,
+                        "endColumn": 41,
+                        "endOffset": 1058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2061,
+                    "endColumn": 164,
+                    "endOffset": 2221
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1063,
+                        "endColumn": 164,
+                        "endOffset": 1223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2226,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 2512
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2517,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 2672
+                },
+                "from": {
+                    "file": "/home/grzegorz/Katalog bez nazwy 2/Encyklopedia/res/values-pl/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

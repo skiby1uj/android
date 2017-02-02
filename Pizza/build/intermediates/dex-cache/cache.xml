@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/Pizza1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ed51c70deade3d59774f19cf41c106960de1c0">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/Pizza1/app/build/intermediates/pre-dexed/debug/instant-run_ea66ffb8ceaeb6bb8c63b0ee7e0161240c276c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/Pizza1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_c92480e563c35c8e2cafa744bb04f3b35f73df87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/Pizza1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df10994abc2fd33522e39d9b187b7f2c2bbea652">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/Pizza1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_9ab094b9e5d3c642adce9fecd9a63267f43d0a40.jar" />
+    </item>
+
+</items>

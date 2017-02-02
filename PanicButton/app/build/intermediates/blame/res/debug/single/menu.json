@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/build/intermediates/res/merged/debug/menu/list_send_sms.xml",
+        "source": "/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/src/main/res/menu/list_send_sms.xml"
+    },
+    {
+        "merged": "/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/build/intermediates/res/merged/debug/menu/alarm_numer.xml",
+        "source": "/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/src/main/res/menu/alarm_numer.xml"
+    },
+    {
+        "merged": "/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/build/intermediates/res/merged/debug/menu/row.xml",
+        "source": "/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/src/main/res/menu/row.xml"
+    },
+    {
+        "merged": "/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/build/intermediates/res/merged/debug/menu/alarm_number.xml",
+        "source": "/home/grzegorz/Katalog bez nazwy 2/PanicButton1/app/src/main/res/menu/alarm_number.xml"
+    }
+]

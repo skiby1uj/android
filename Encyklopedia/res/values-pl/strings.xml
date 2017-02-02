@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">Encyklopedia</string>
+    <string name="action_settings">Settings</string>
+    <string name="krowa">Krowa</string>
+    <string name="krowa_opis">Dorosła samica bydła domowego oraz żubra, tura, bawołów i innych gatunków z rodziny krętorogich. Określenie krowa odnosi się też do samic innych dużych ssaków, np. karmiących samic wielorybów</string>
+    <string name="kot">Kot</string>
+    <string name="kot_opis">Udomowiony gatunek ssaka z rzędu drapieżnych z rodziny kotowatych. Koty zostały udomowione ok. 9500 lat temu i są obecnie najpopularniejszymi zwierzętami domowymi na świecie </string>
+    <string name="lis">Lis</string>
+    <string name="lis_opis">Nazwa zwyczajowa oznaczająca drapieżnego ssaka z rodzaju Vulpes, najczęściej stosowana w odniesieniu do gatunku Vulpes vulpes (w języku polskim zwanego lisem pospolitym, lisem rudym lub po prostu lisem), a także przedstawicieli innych gatunków, podobnych do lisa</string>
+    <string name="swinia">Świnia</string>
+    <string name="swinia_opis">Zwierzę hodowlane udomowione między VII a VI tys. lat p.n.e. Dostarcza hodowcom mięsa, tłuszczu, skóry, podrobów, szczeciny.</string>
+    <string name="kura">Kura</string>
+    <string name="kura_opis">Ptak hodowlany z rodziny kurowatych, hodowany na całym świecie. W środowisku naturalnym nie występuje. Uważa się, że stanowi formę udomowioną kura bankiwa (Gallus gallus), lecz nie wyklucza się domieszki innych gatunków południowoazjatyckich kuraków (zarówno żyjących, jak i wymarłych). Udomowienie miało prawdopodobnie miejsce w III tysiącleciu p.n.e. w Indiach, chociaż badania archeologiczne wykazały, że pierwsze kuraki udomowiono w Chinach już w VI tysiącleciu p.n.e. Około 1000 p.n.e. kury hodowano już powszechnie w Chinach, a ok. 500 p.n.e. w Egipcie i Europie, w tym w Polsce (odnaleziono kości kur podczas wykopalisk w Biskupinie). W tym okresie w Chinach prowadzono już sztuczne wylęganie. Jak wykazały badania, ówczesne kury przypominały dzisiejsze kury bezrasowe, lecz miały lepiej rozwinięte skrzydła.</string>
+   
+
+
+</resources>

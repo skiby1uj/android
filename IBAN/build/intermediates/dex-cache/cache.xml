@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/IBAN/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b80eb941322d1cbf1c3db60d7b482e5486911be5">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/IBAN/app/build/intermediates/pre-dexed/debug/instant-run_0ded1f57ca15258529c097b5ce2f21eed2d41578.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/IBAN/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7195a17ff101870226d41a922cc51ff2756a45b0">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/IBAN/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b73dcc8206178ffb249ffef20fc97babaafd7fd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/IBAN/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_c92480e563c35c8e2cafa744bb04f3b35f73df87.jar" />
+    </item>
+
+</items>

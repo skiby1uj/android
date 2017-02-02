@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.budzetdomowy.MainActivity" >
+
+    <Button
+        android:id="@+id/DomownicyButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="DomownicyButton"
+        android:text="Domownicy" />
+
+    <Button
+        android:id="@+id/DomoweWydatki"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/DomownicyButton"
+        android:layout_below="@+id/DomownicyButton"
+        android:layout_marginTop="16dp"
+        android:onClick="DomoweWydatki"
+        android:text="Domowe wydatki" />
+
+    <Button
+        android:id="@+id/PlanowaneWydatki"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/DomoweWydatki"
+        android:layout_below="@+id/DomoweWydatki"
+        android:layout_marginTop="14dp"
+        android:onClick="PlanowaneWydatki"
+        android:text="Planowane wydatki" />
+
+    <Button
+        android:id="@+id/HistoriaWydatkow"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/NiePlanowaneWydatki"
+        android:layout_below="@+id/NiePlanowaneWydatki"
+        android:layout_marginTop="18dp"
+        android:onClick="HistoriaWydatkow"
+        android:text="Historia wydatkow" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/HistoriaWydatkow"
+        android:layout_below="@+id/HistoriaWydatkow"
+        android:layout_marginTop="14dp"
+        android:text="Export z..." />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/button1"
+        android:layout_alignBottom="@+id/button1"
+        android:layout_alignLeft="@+id/HistoriaWydatkow"
+        android:text="Import do..." />
+
+    <Button
+        android:id="@+id/NiePlanowaneWydatki"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/PlanowaneWydatki"
+        android:layout_centerVertical="true"
+        android:onClick="NiePlanowaneWydatki"
+        android:text="Nie planowane wydatki" />
+
+</RelativeLayout>

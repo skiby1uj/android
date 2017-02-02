@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Encyclopedia</string>
+    <string name="action_settings">Settings</string>
+    <string name="krowa">Cow</string>
+    <string name="krowa_opis">Adult female domestic cattle and bison, aurochs, buffalo and other species of the family Bovidae. Cow term also refers to the females of other large mammals, for example. Lactating whales</string>
+    <string name="kot">Cat</string>
+    <string name="kot_opis">Domesticated species of mammal in a row predatory felines. Cats have been domesticated approx. 9500 years ago and are now the most popular pets in the world</string>
+    <string name="lis">Fox</string>
+    <string name="lis_opis">Common name denoting a predatory mammal of the genus Vulpes, usually applied to species Vulpes vulpes (in Polish called common fox, fox or just reddish fox), as well as representatives of other species, like a fox</string>
+    <string name="swinia">Pig</string>
+    <string name="swinia_opis">Domesticated animal breeding between VII and VI thousand. years BC Provides breeders of meat, fat, skin, offal, bristles.</string>
+    <string name="kura">Chicken</string>
+    <string name="kura_opis">The bird breeding of the Phasianidae family, grown around the world. In nature, does not occur. It is believed that this constitutes a form of domesticated hen BANKS (Gallus gallus), but does not exclude the admixture of other species in Southern grouse (both living and extinct). Domestication was probably in the third millennium BC In India, although archaeological studies have shown that the first domesticated in China Kuraki already in the sixth millennium BC Around 1000 BC chickens already widely grown in China, and approx. 500 BC in Egypt and Europe, including Poland (chicken bones found during excavations in Biskupin). During this period, China has carried out artificial hatching. Research has shown that the then chicken hens bezrasowe resembled today, but were better developed wings.</string>
+    <string name="title_activity_description">Description</string>
+
+</resources>

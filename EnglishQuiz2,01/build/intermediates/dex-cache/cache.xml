@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/EnglishQuiz2,01/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5158d40db4e78a8710be5c5dfcf00582a2b3426">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/EnglishQuiz2,01/app/build/intermediates/pre-dexed/debug/instant-run_b85865e5b9b5f351f9bc45e9def624ce0fbf55ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/EnglishQuiz2,01/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_68f559ed1d00daa5938802c56f9e9c34c2e724b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grzegorz/Katalog bez nazwy 2/EnglishQuiz2,01/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4339492cc9bf8bb5fee565cd7039c7d39aa4dd">
+        <dex dex="/home/grzegorz/Katalog bez nazwy 2/EnglishQuiz2,01/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_ef32ce52e6f3892d9d57867a9d1f400f00174509.jar" />
+    </item>
+
+</items>
