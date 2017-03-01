@@ -1,5 +1,6 @@
 package com.example.grzegorz.managertynkow;
 
+import android.content.Intent;
 import android.database.Cursor;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -62,6 +63,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void addNewZlecenie(View v){
-        Toast.makeText(this, "Add new zlecenie", Toast.LENGTH_LONG).show();
+        Intent intent = new Intent(this, addZlecenie.class);
+        startActivity(intent);
+//        Toast.makeText(this, "Add new zlecenie", Toast.LENGTH_LONG).show();
     }
 }
