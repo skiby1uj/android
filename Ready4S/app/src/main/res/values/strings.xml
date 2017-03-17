@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ready4S2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapa">Mapa</string>
+    <string name="ostatnie">Ostatnie</string>
+    <string name="nazwa_miejsca">Nazwa miejsca: </string>
+    <string name="dl_geograficzna">Długość geograficzna: </string>
+    <string name="szzer_geograficzna">Szerokość geograficzna: </string>
+</resources>
